@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Umair Ahmad
 
-🎓 **CS Student at COMSATS University Sahiwal**  
-💻 **Frontend Developer** specializing in building modern web interfaces  
-🚀 Currently mastering **Web Development** to build scalable solutions
+🎓 **CS Student at COMSATS University**  
+💻 **Full Stack Developer** specializing in building web interfaces  
+🚀 Currently mastering **Full Stack Web Development** to build scalable solutions
 
 ---
 
 ### 📖 About Me
 
 * 🏫 **Education**: Pursuing a Bachelor's in Computer Science at **COMSATS University Sahiwal**.
-* 🔭 **Currently Learning**: Advanced Web Development and expanding my **React** ecosystem knowledge.
+* 🔭 **Currently Learning**: Advanced Web Development and expanding my **MERN Stack** ecosystem knowledge.
 * 🎯 **Interests**: UI/UX Design, Logic Optimization, and building projects for my **LinkedIn** portfolio.
 * 📚 **Technical Foundation**: Solid understanding of **C++**, **Java**, and **Python**.
 
